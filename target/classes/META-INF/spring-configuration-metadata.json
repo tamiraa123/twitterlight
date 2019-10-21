@@ -1,0 +1,37 @@
+{
+  "groups": [
+    {
+      "name": "",
+      "type": "mpp.project.AppConfigBean",
+      "sourceType": "mpp.project.AppConfigBean"
+    }
+  ],
+  "properties": [
+    {
+      "name": "db-driver",
+      "type": "java.lang.String",
+      "sourceType": "mpp.project.AppConfigBean"
+    },
+    {
+      "name": "db-password",
+      "type": "java.lang.String",
+      "sourceType": "mpp.project.AppConfigBean"
+    },
+    {
+      "name": "db-platform",
+      "type": "java.lang.String",
+      "sourceType": "mpp.project.AppConfigBean"
+    },
+    {
+      "name": "db-url",
+      "type": "java.lang.String",
+      "sourceType": "mpp.project.AppConfigBean"
+    },
+    {
+      "name": "db-username",
+      "type": "java.lang.String",
+      "sourceType": "mpp.project.AppConfigBean"
+    }
+  ],
+  "hints": []
+}
